@@ -33,7 +33,9 @@ E-mail: mesoonayef@hotmail.com
 https://www.linkedin.com/in/maysoon-ahmad-0246871a/
 
 
-My background is in Chemical engineering with a wide range of experiences . I always had an interest in coding and was curious about technology which led me to change careers. I love coding and creating new things from scratch. It’s so fascinating to know that every piece of code I’m writing has a potential to solve a problem. I completed a Software development bootcamp where I learned C# and how to create a web app using ASP.NET Core MVC and I improved my coding skills.
+My background is in Chemical engineering with a wide range of experiences . I always had an interest in coding and was curious about technology which led me to change careers.
+I love coding and creating new things from scratch. It’s so fascinating to know that every piece of code I’m writing has a potential to solve a problem. I completed a Software
+development bootcamp where I learned C# and how to create a web app using ASP.NET Core MVC and I improved my coding skills.
 
 EDUCATION
 
@@ -70,9 +72,11 @@ Design Patterns: MVVM
 Project: Eventbrite
 -----------------------
 ▪ Developed a web application that allows anyone to create, share, find and attend events across different places and streams. User can add events to their wish list and manage.
-▪ The application is backed by 4 micro services - Orders, Event Catalog, Cart, and Identity Token services. Each service provides set of RESTful APIs to perform CRUD operations specific to the functionality.
+▪ The application is backed by 4 micro services - Orders, Event Catalog, Cart, and Identity Token services. Each service provides set of RESTful APIs to perform CRUD operations 
+specific to the functionality.
 ▪ Developed a messaging channel using Rabbit MQ to update the user wish list status as already registered based on events from orders placed.
-▪ Developed an in-memory data store using Redis to store and manage user wish list. Wish list Object will be serialized/DE-serialized to/from JSON before saving/retrieving data into/from Redis.
+▪ Developed an in-memory data store using Redis to store and manage user wish list. Wish list Object will be serialized/DE-serialized to/from JSON before saving/retrieving data 
+into/from Redis.
 ▪ All the five micro services, MS SQL server, Redis and Rabbit MQ services has been containerized using Docker to run on a single server.
 
 Technologies used: C#, JSON, .Net Core Framework, Entity Framework, Rabbit MQ, Redis, SQL, Docker, Swagger, MVC Framework, Postman, JSON
@@ -92,10 +96,14 @@ Waterloo University, Canada ON
 Master and Ph.D. (drop out) 
 2009 - 2014 
 Responsibilities
-•	Air quality forecasting project: an integrated Analysis of the air pollution forcing using Calpuff and python: The project target was to analysis a raw data for air pollutants (the mixture of gases) from different factories in Ontario area. We used python to parse and filter the requirement data in order to use it as an input for Calpuff(dispersion model). Calpuff support AI to predict air pollution. The module can be used as a future project to simulate environment hazard prediction. AI and ML (machine learning) can be used as tools to monitor and reserve air quality .AI and ML will help human to predict pollution and track pollution sources. 
+•	Air quality forecasting project: an integrated Analysis of the air pollution forcing using Calpuff and python: The project target was to analysis a raw data for air 
+  pollutants (the mixture of gases) from different factories in Ontario area. We used python to parse and filter the requirement data in order to use it as an input for 
+  Calpuff(dispersion model). Calpuff support AI to predict air pollution. The module can be used as a future project to simulate environment hazard prediction. AI and ML
+  (machine learning) can be used as tools to monitor and reserve air quality .AI and ML will help human to predict pollution and track pollution sources. 
 •	Assessment of mathematical models for Ultrafiltration of multi-solute continuous cross-flow process using MATLAB.
 •	Simulate the treatment of Industrial Phenolic Liquid Effluents using MATLAB.
-•	Odour assessment project: Applying Calpuff(dispersion model)to quantify the odour potential impact in the environment of a proposed facility in the Carp, Ontario. Where CALPUFF used to simulate the dispersion and to get a predicted concentration.
+•	Odour assessment project: Applying Calpuff(dispersion model)to quantify the odour potential impact in the environment of a proposed facility in the Carp, Ontario. Where
+  CALPUFF used to simulate the dispersion and to get a predicted concentration.
 •	Teaching assistants
 
 PROFESSIONAL TRAINING & CERTIFICATION 
